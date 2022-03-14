@@ -2,10 +2,12 @@
 /**
  * main - entry point
  *
- *Return: Always return 0 (Success)
+ * This is the main function. Where everything start.
+ *
+ * Return: Always return 0 (Success)
  */
 int main(void)
 {
-	puts("programming is like building a multilingual puzzle");
+	puts("programming is like building a multilingual puzzle);
 	return (0);
 }
