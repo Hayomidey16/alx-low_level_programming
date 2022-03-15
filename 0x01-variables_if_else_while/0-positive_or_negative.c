@@ -7,7 +7,7 @@
  *
  * Return: Always 0 (Success/correct)
  */
- 
+
 int main(void)
 {
 int n;
@@ -30,6 +30,6 @@ else
 printf("%i is positive\n", n);
 }
 
-return (0);a
+return (0);
 
 }
